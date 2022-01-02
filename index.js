@@ -25,5 +25,3 @@ function countDown(posInteger) {
         console.log(count);
     }
 }
-
-countDown(10);
